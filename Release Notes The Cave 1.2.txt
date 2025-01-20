@@ -1,0 +1,31 @@
+﻿Release Notes for The Cave
+
+
+﻿
+Game Project: The Cave
+Creator: Lexx Walker
+Version: 1.2
+Date: 1/19/2025
+
+
+New features
+* There is now a pickaxe, which lets you ‘dig deeper’, going to other, larger mazes. 
+* Music is now added, with custom tracks.
+* Sounds are now added, all being custom. 
+* Plenty more sprites to create some extra cave variations that were previously unavailable, as well as cracked walls and the final section that is in a different perspective.  ﻿
+﻿
+Fixes
+* Any collision issue is fixed, with there being no ability for the player to clip past wall boundaries.
+﻿
+Improvements (of existing features)
+* Made the change from everything being a double sided exit to every exit after the first one being a one-way exit, eventually leading to the ending. 
+* Dialogue was somewhat changed to make more sense with the simple narrative, and most horror elements are removed. 
+
+
+
+
+Known Bugs
+* ﻿N/A
+
+
+﻿
